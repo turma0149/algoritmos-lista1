@@ -35,7 +35,7 @@ $orcamento = $qtdConvidados * $valorPessoa;
         de R$ 10.200,00.
     </p>
 
-    <p> <?php echo ("ORÇAMENTO" . $orcamento ); ?> </p>
+    <p> <?php echo ("ORÇAMENTO: R$ " . $orcamento ); ?> </p>
 
 </body>
 
